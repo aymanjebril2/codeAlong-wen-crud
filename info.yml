@@ -1,0 +1,17 @@
+# For all info and  up-to-date list of accepted values, see https://git.generalassemb.ly/sei-nyc/start-here/blob/master/info_schema.md: 
+
+# Required fields: unit, section and type
+
+unit: 3
+
+section: express-full-stack
+
+type: lesson
+
+
+# optional fields:
+  # notes
+  # prereqs
+  # orderingID
+  # ...and maybe more! https://git.generalassemb.ly/sei-nyc/start-here/blob/master/info_schema.md:
+  
