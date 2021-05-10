@@ -11,10 +11,7 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://git.generalassemb.ly/bruno/mongodb-express-react"
-  },
+ 
   "keywords": [],
   "author": "",
   "license": "ISC",
